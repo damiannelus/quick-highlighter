@@ -1,0 +1,7 @@
+.custom-highlight-mark {
+    color: black !important; /* Domyślnie czarny tekst */
+    padding: 1px 3px;
+    border-radius: 2px;
+    font-weight: 500;
+    /* Usuwamy box-shadow, żeby nie "brudzić" tekstu przy wielu kolorach */
+}

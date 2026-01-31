@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { width: 300px; padding: 10px; font-family: sans-serif; }
+    textarea { width: 100%; height: 100px; margin-bottom: 10px; }
+    button { width: 100%; cursor: pointer; background: #007bff; color: white; border: none; padding: 8px; }
+  </style>
+</head>
+<body>
+  <h3>Podaj frazy (każda w nowej linii):</h3>
+  <textarea id="textInput" placeholder="Tekst 1&#10;Tekst 2"></textarea>
+  <label><input type="checkbox" id="caseSensitive"> Wielkość liter ma znaczenie</label>
+  <button id="btnHighlight">Podkreśl</button>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
