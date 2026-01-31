@@ -1,6 +1,7 @@
 # Quick Highlighter (Chrome Extension)
 
 A lightweight, developer-friendly Chrome extension to highlight multiple phrases on any webpage simultaneously with custom color support via a simple markup language.
+![Extension Preview](images/screenshot.png)
 
 ## 🚀 Features
 
